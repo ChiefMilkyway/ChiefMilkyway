@@ -4,4 +4,6 @@ Back End: PHP, MySQL, NodeJS, Python
 Learning: C Languages (C, C++, C#)
 
 
-![light](https://user-images.githubusercontent.com/94228460/207047869-13dc1761-1e44-4e72-ab0a-59f2dc2d671e.gif)
+![light_rotten](https://user-images.githubusercontent.com/94228460/207048421-27270abc-d666-48b6-a8c9-defd3cc1731d.gif)
+![calm](https://user-images.githubusercontent.com/94228460/207048479-4c54d23b-25eb-448d-a28c-b07ba82e904f.gif)
+
